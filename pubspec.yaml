@@ -1,0 +1,18 @@
+name: image_viewer
+description: Simple pure dart image viewer for use in Flutter apps.
+version: 0.0.1
+author: Jostein Skaar - Omega Design AS
+homepage: https://omegadesign.no
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
