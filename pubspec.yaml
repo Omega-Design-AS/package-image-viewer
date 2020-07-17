@@ -1,6 +1,6 @@
 name: image_viewer
 description: Simple pure dart image viewer for use in Flutter apps.
-version: 0.2.0
+version: 0.2.1
 homepage: https://omegadesign.no
 repository: https://github.com/Omega-Design-AS/package-image-viewer
 publish_to: https://flutter-packages.appframe.com:4242
